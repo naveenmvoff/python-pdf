@@ -6,8 +6,6 @@ def check(input1, word):
         return False
 
 
-
-
 input1 = input("Enter the sentance: ")
 word = input("Enter the word: ")
 
