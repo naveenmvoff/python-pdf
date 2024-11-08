@@ -1,1 +1,0 @@
-#  Write a program that finds the most frequent element in a list.
