@@ -1,0 +1,10 @@
+{
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "job": {
+      "title": "Engineer",
+      "department": "R&D"
+    },
+    "hobbies": ["reading", "coding", "gaming"]
+  }  

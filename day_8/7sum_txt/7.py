@@ -14,7 +14,7 @@ def adding(txtfile):
     return total
 
 
-txtfile = r"C:\WORKS\Learning\Python Learn\python-pdf\day_8\7\sample.txt"
+txtfile = r"C:\python-pdf\day_8\7sum_txt\sample.txt"
 
 result = adding(txtfile)
 print("The total sum is: ", result) 
