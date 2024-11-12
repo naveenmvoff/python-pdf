@@ -1,7 +1,7 @@
 #  Write a program that finds the most frequent element in a list.
 def fin_large(input1):
 
-    frequen = {}
+    frequen = {}     # i(1):0 #i(the i valueis chaning, ex: 1):0(then its add by the increment of the one)
 
     for i in input1:
         frequen[i] = frequen.get(i, 0) + 1         # use to store the value in dict(frequen),   frequen[i] #(use to take the key value) = frequen.get(i, 0) + 1                     
